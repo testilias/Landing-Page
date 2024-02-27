@@ -1,28 +1,7 @@
-*{
-    box-sizing: border-box;
+h2{
+    
 }
-
-body {
-    background-color: #1F2937;
-}
-
-a {
-    text-decoration: none;
-    color: antiquewhite;
-}
-
-li {
-    margin-right: 20px;
-    list-style-type: none;
-}
-
-.header {
+.holder {
     display: flex;
-    gap: 1200px;
-    justify-content: space-evenly;
+    gap: 50px;
 }
-
-.list1, .list2, .list3 {
-    display: inline-flex;
-}
-
