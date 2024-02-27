@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1F2937;
+}
+
+a {
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+li {
+    margin-right: 20px;
+    list-style-type: none;
+}
+
+.header {
+    display: flex;
+    gap: 1200px;
+    justify-content: space-evenly;
+}
+
+.list1, .list2, .list3 {
+    display: inline-flex;
+}
+
